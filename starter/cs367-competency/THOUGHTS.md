@@ -1,0 +1,1 @@
+So I didn't do much coding over the summer except like html/css/javascript and took a second to get used to things. And I decided to do this in vim, which I haven't used in a while. Definitely need to do some more review on my own and will do the parts I didn't finish on my own time and start looking over the first homework to see how I'm feeling about it. 
